@@ -1,11 +1,5 @@
 package testPackage;
 
 public class testClass {
-a;rr
-
-rd
-
-r
-  pull
 
 }
